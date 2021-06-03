@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Plain English to His Excellencie the Lord General Monck and the officers of his army, or, A word in season not onely to them but to all impartial Englishmen to which is added A declaration of Parliament in the year 1647 setting forth the grounds and reasons why they resolved to make no further address or application to the King.</title>
+         </titleStmt>
+         <extent>Approx. 65KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54978</idno><idno type="EEBO-CITATION">9570887</idno>
+  <idno type="VID">43677</idno>
+  <idno type="EEBO-PROQUEST">2264201813</idno>
+  
+            <idno type="STC">Wing P2359</idno>
+            <idno type="STC">ESTC R26887</idno>
+            <idno type="OCLC">09570887</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43677)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1337:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Plain English to His Excellencie the Lord General Monck and the officers of his army, or, A word in season not onely to them but to all impartial Englishmen to which is added A declaration of Parliament in the year 1647 setting forth the grounds and reasons why they resolved to make no further address or application to the King.</title>
+                  <author>England and Wales. Parliament. House of Commons. Declaration of the Commons of England in Parliament assembled.</author>
+               </titleStmt>
+               <extent>8, 17-30 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"A declaration of the Commons of England in Parliament assembled": p. 17-30.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Albemarle, George Monck, --  Duke of, 1608-1670.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43677:1"/>
+            <pb facs="tcp:43677:1"/>
+            <p>
+               <hi>PLAIN ENGLISH</hi> To his EXCELLENCIE THE Lord General Monck, And the OFFICERS of his ARMY: Or, A <hi>Word</hi> in season, not onely to them, but to all Impartial Englishmen.</p>
+            <p>To vvhich is added, A DECLARATION OF PARLIAMENT In the year 1647. setting forth the Grounds and Reasons, why they resolved to make no fur<g ref="char:EOLhyphen"/>ther Address or Application to the <hi>King.</hi>
+            </p>
+            <p>Printed at <hi>London,</hi> in the Year 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:43677:2"/>
+            <pb n="1" facs="tcp:43677:2"/>
+            <head>To his Excellency the Lord General <hi>Monck,</hi> and the Officers of the Army under his Command.</head>
+            <opener>
+               <salute>My Lord and Gentlemen,</salute>
+            </opener>
+            <p>IT is written, <hi>The prudent shall keep silence in an evil time;</hi> and 'tis like, we also might hold our peace, but that we fear a knife is at the very throat, not onely of our and your Li<g ref="char:EOLhyphen"/>berties, but of our persons too. In this condition, we hope it will be no offence, if we cry out to you for help; you that (through Gods goodness) have helped us so of<g ref="char:EOLhyphen"/>ten, and strenuously maintained the same Cause with us, against the return of that Family which pretends to the Government of these Nations. It is the publick interest and yours, that we hi<g ref="char:EOLhyphen"/>therto fought for, and for which we now plead; therefore we in<g ref="char:EOLhyphen"/>sist upon it with the greater confidence before you, because we are all equally concerned in the good or ill of your transactions: We cannot yet be perswaded, though our fears and jealousies are strong, and the grounds of them many, that you can so lull asleep your Consciences, or forget the publick Interest, and your own, as to be returning back with the multitude to <hi>Egypt,</hi> or that you should with them be hankering after the <hi>Leeks and Onyons</hi> of our old bondage. Though it were possible you should forget, yet certainly God will not, all the injuries and oppressions done by that Family to his Church and people in these and other Nations: Though the Inscription <hi>[Exit Tyrannus,]</hi> which was fixed over the place where the Statue of the late King formerly stood at the <hi>Exchange,</hi> hath been blotted out by the Rabble, yet it is writ<g ref="char:EOLhyphen"/>ten with the Pen of a Diamond in the hearts of many thousands, and will be so hereafter in the adamantine Rolls of Fame and Hi<g ref="char:EOLhyphen"/>story. No matter then, though the profane Vulgar take a liber<g ref="char:EOLhyphen"/>ty to proclaim him both Saint and Martyr in the midst of their Bon-fires, and their Tipple. All the good Fellows were ever at his Devotion, because he was for theirs, and commanded it to
+<pb n="2" facs="tcp:43677:3"/> be observed upon the Sundays. But to the end it may be better known how good a King, and how great a Saint he was, we have taken the boldness at this instant to offer you an accompt of some part of the transactions during his reign: and because there are too many in the City who wait the good time to re-erect his Sta<g ref="char:EOLhyphen"/>tue, we desire in the first place to present you his Picture, as it was drawn by a good hand, the Parliament, in the year 1647. at which time it was resolved upon the Question joyntly by Lords and Commons in Parliament assembled, <hi>That they would make no further Addresses or Applications to the King, nor receive any Message from him.</hi> VVe revive this the rather, because the me<g ref="char:EOLhyphen"/>mories of men being frail, cannot retain all particulars; which is the reason (we fear) why so many formerly engaged against him as high as any, upon conscientious accompts, both Religious and Civil, are staggering and backsliding, and have need of some quick and faithful <hi>Monitor</hi> to mind them of things past, and make them beware of the present, lest they return with the Rout, and cry, Let us make our selves a King again of that Family; that Family which so cruelly persecuted us and our Brethren, and which still remains engaged by reason of State, and ancient Principles of Enmity and Interest, to plough up the old Furrows upon our backs, and re<g ref="char:EOLhyphen"/>deliver our persons and consciences into the hands of our old Tor<g ref="char:EOLhyphen"/>mentors; and our men of might, and our Counsellours, to be<g ref="char:EOLhyphen"/>come sacrifices to the revenge of an implacable Party. March on then, (my Lord and Gentlemen;) for believe it, there is in point of Safety no possibility of retreat, and much less in point of Conscience or Honour: For, if you respect Conscience, (as we hope you do) lay your hands upon your hearts, and tell us what hope you or we can have, that the reformed Religion and Cause will be protected and maintained by the Son, which was so irreli<g ref="char:EOLhyphen"/>giously betrayed both at home and abroad by the Father. It may be you do not readily remember these things, nor how much blood was spilt by royal treachery, nor the manifold usurpations and de<g ref="char:EOLhyphen"/>signes by him projected and acted upon our Liberty, the like ne<g ref="char:EOLhyphen"/>ver done by any Prince before: and for Blood, the Scotish Mi<g ref="char:EOLhyphen"/>nisters employed hither <hi>Anno</hi> 1644. proclaimed and published in print, <hi>That the late King had spilt more blood then was shed in the <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n Heathen Persecutions of the Christians:</hi> and the Ministers of
+<pb n="3" facs="tcp:43677:3"/>
+               <hi>London</hi> (as we can shew you by several Prints of theirs) declared, That <hi>satisfaction</hi> ought to be had for <hi>blood;</hi> that he was a <hi>man of blood,</hi> and not capable of accommodation with the Parliament▪ We mention not this to upbraid them; for, we reverence their ancient Zeal in this particular, and humbly entreat them, as w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll as your Excellencie, and the Officers, and all the good people of these Nations, to observe the forementioned Resolves of the Lords and Commons, which were introductory to that most noble Act of Justice afterwards executed upon the King.</p>
+            <p>And that it may appear to be such, in despight of Ignorance and Envy, we have been bold here to present you in print that most remarkable <hi>Declaration</hi> of the Commons assembled in Par<g ref="char:EOLhyphen"/>liament, in pursuance of the said Resolve of both Houses, where<g ref="char:EOLhyphen"/>in they declare the Grounds and Reasons why they passed the Re<g ref="char:EOLhyphen"/>solves of <hi>no further Address;</hi> and therein you will see also, how well he deserved to lose his head, and his Family the Kingdome; whose corrupt and irreconcil<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble interest had been the head and fountain of those Rivers of blood and misery which had flowed so many years about these Nations.</p>
+            <p>VVould you see how and by whom the <hi>Irish Rebellion</hi> began, and upon whose score those unparallel'd barbarous Massacres of hundreds of thousands of the Protestants in <hi>Ireland,</hi> do lie? VVould you know who it was that interposed betwixt the Parlia<g ref="char:EOLhyphen"/>ment and the Duke of <hi>Buckingham,</hi> and would not permit the Proofs to be made ag<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inst him concerning the death of his own Father? VVould you hear who it was that made so light of Parliaments, killing them as soon as born, and making them a scorn by dissolution at pleasure; and at length designed, and in fine drew sword against the very Parliamentary Constitution, after he had by imprisonments destroyed several eminent Patriots for their freedome of speech in the Parliament on the behalf of the Publick; and in particular, touching the death of his Father? VVould the Scots know who it was that designed them to be the first Subjects of Slavery in Spirituals and Civils, who hated their very Nation, though the Land of his Nativity; who made a Pa<g ref="char:EOLhyphen"/>cification with them, with a treacherous intent to break every Ar<g ref="char:EOLhyphen"/>ticle; and manifested it as soon as he returned from <hi>Edinburgh</hi> to <hi>London,</hi> giving special command to burn the said Articles by the
+<pb n="4" facs="tcp:43677:4"/> hand of the common Hangman, and it was publickly done? VVould you hear the Cries of the blood of <hi>Rochel,</hi> and of his own people sacrificed in that Expedition to a forreign Interest, and of all the Protestants in <hi>France,</hi> for his barbarous betraying of them? Would you cast your eye on past miseries, and recollect the manifold intolerable Oppressions of people both in matter of E<g ref="char:EOLhyphen"/>state and Conscience, and compare them with the indulgencies at the same time towards Papists, yea, and the designes laid to make use of Papists, to destroy both Parliaments and godly people toge<g ref="char:EOLhyphen"/>ther? VVould you understand the correspondencies maintained with, and the encouragements given to, the bloody Irish Rebels, for the effecting his designe; together with the Correspondencies and Sollicitations settled in forreign Countries to the same pur<g ref="char:EOLhyphen"/>pose, with all the Circumstances evincing the truth? VVould you be informed how often, and with how much sollicitude the Parlia<g ref="char:EOLhyphen"/>ment, notwithstanding all these things, did, for peace sake, in a manner prostitute themselves, and hazard the whole Cause, by ap<g ref="char:EOLhyphen"/>pointing Treaty after Treaty, which he never entertained but with intent of treachery, and thereby frustrated all their good intenti<g ref="char:EOLhyphen"/>ons and endeavours, before ever they passed the <hi>Votes of non-Ad<g ref="char:EOLhyphen"/>dress?</hi> Then, we beseech you, read the following Declaration, and be satisfied to the full, whether or no the late King and his Fa<g ref="char:EOLhyphen"/>mily deserved death and extirpation.</p>
+            <p>As for our parts, we very well recount the Series of past trans<g ref="char:EOLhyphen"/>actions, and do remember that in <hi>February</hi> 1647. when the two Houses of Parliament passed their Resolves of making no further Address, but determined to lay him wholly aside, they never were in a greater state of security and freedom, never passed any thing with greater deliberation; and never the least disturbance or alte<g ref="char:EOLhyphen"/>ration arose in either of the Houses against those Resolves, until some persons in the Commons House, other ways affected, and who by procuring Elections of Persons fit for their turn to serve in Parliament, in vacant places, brought in new men of the Cavalier stamp (as is known) like themselves; and thereby out-balancing the old Patriots, gained the Major Vote of the House; and so with heat, and by designe, obtained a revoking of those Resolves which had been passed by both Houses in a time of temper, upon most serious Consideration: so that though we shall not take up<g ref="char:EOLhyphen"/>on
+<pb n="5" facs="tcp:43677:4"/> us <hi>ex absoluto</hi> to justifie the interposure of the Souldiery after<g ref="char:EOLhyphen"/>wards, and their Exclusion of the Adverse Members, (it being a transcendent Act, not to be measured by ordinary Rule, and which nothing can justifie but Supreme necessity) yet this we can truly say in their defence: In Judgement and Conscience there was so indispensible a necessity, that had they not interposed, those Prin<g ref="char:EOLhyphen"/>ciples, and the Concernments of the Commonwealth, upon which the aforesaid Resolves of both Houses were founded, had been utterly shipwrackt, and the whole Cause and its Defenders must inevitably have sunk together; seeing the same heady confi<g ref="char:EOLhyphen"/>dence in treaty was then given to the Father, which too many now encline to allow unto the Son, who were first engaged against them in the War, and held out to the time of the last treaty; whom (of all other men) his party do hate upon that accompt; and, if they had an opportunity, would be sure to make them fall the se<g ref="char:EOLhyphen"/>verest Sacrifices to the Revenge and Memory of his Father.</p>
+            <p>VVe urge not these things, with any intent to make the least reflection upon your Excellency, and our Brethren the Officers under your command, as if we suspected your sincerity and con<g ref="char:EOLhyphen"/>stancy, after so many plain and positive Declarations against re<g ref="char:EOLhyphen"/>turning to our old Bondage under that Family which God so won<g ref="char:EOLhyphen"/>derfully cast out before us, &amp; wherein we are confident he, for his own Name and peoples sake, will never more take pleasure: but in regard the old Adversaries behave themselves insolently and proudly, and publickly give our, the time is coming wherein they shall satisfie their lusts upon us, we thought it convenient to whet your spirits with a repetition of these things, as we have done our own, that the world may see we yet own our Cause; and do believe, that what we have done as Instruments in driving out that Family, we have done in Judgement and Conscience; and that you take a convenient time to let men understand plainly that you also will continue of the same perswasion with us, for as much as there are none of the particulars charged upon the late King in the following Declaration, which would not, with many more, have been proved to his face by a Cloud of Witnesses, if he would have put himself upon tryal, when he was called to answer for his actions.</p>
+            <p>Give us leave (we beseech you) to adde one thing more, which
+<pb n="6" facs="tcp:43677:5"/> we had almost forgotten, to shew the madness of those men that cancelled the <hi>Votes of non-Address,</hi> and would have brought back the late King by the Isle of <hi>Wight</hi>-Treaty, and would now (if they might have their wills) bring in his Son by the like, <hi>viz.</hi> that at the very time when that Treaty was on foot, though this young man, who was then at Sea in the revolted Ships, declared all to be null which should be agreed on by his Father; yet, hand over head, in they would have had him, as others would now restore the Son upon the very same terms which he so positively declared himself an enemy to in his Fathers days. Good God! what a spi<g ref="char:EOLhyphen"/>rit of slumber hath seised such men, who were once deeply enga<g ref="char:EOLhyphen"/>ged with us in the common Cause!</p>
+            <p>As for your Excellencie, far be it from us to entertain any su<g ref="char:EOLhyphen"/>spition concerning you; supposing you must needs have upon your heart the true interest of Religion, and your own too; and how much it is concerned in the keeping out of that Family, whose restitution we believe God will not now permit unto any Desig<g ref="char:EOLhyphen"/>ners, seeing he hath from time to time so signally blasted all for<g ref="char:EOLhyphen"/>mer undertakings. As to what concerns Religion, you know what hath been their Educaticon and Dependency abroad; and should they return, 'tis obvious, all other parties would be put upon their guard to defend themselves against him and his Clergie at home; and so all sorts of religious Parties being constrained to combine for mutual preservation and liberty, the War will soon be renewed upon the point vvhere it at first began.</p>
+            <p>As to your ovvn interest in the station vvhere God hath placed you, 'tis vvell knovvn vvhat the private sence and opinion of that Party is concerning your Excellency, because you have been an Instrument in keeping <hi>Scotland</hi> many years vvith so great vigilance and prudence, free from the attempts of that irreconcileable Ene<g ref="char:EOLhyphen"/>nemy. Admit such a thing vvere possible, vvhich some fancie, that you should be the man that vvould put the Crovvn again upon the head of that Family; is it not plain vvhat fate (setting aside all other Considerations) you might expect from a seeming recon<g ref="char:EOLhyphen"/>ciled Enemy, and a King too? it being the guise of Kings (as the Historians from innumerable Examples do observe) ever to recompence vvith hate their most meritorious Servants; making no difference in return, betvvixt the highest Obligation, and the
+<pb n="7" facs="tcp:43677:5"/> greatest Injury. The examples are so frequent in our own Chro<g ref="char:EOLhyphen"/>nicles, as well as forreign, that he who runs may read it; and 'tis not proper here to recite them.</p>
+            <p>Alas, (Sirs) 'tis not an Army that shall secure you, nor the pow<g ref="char:EOLhyphen"/>er of the Militia that can secure our ancient Senators, (if any who have been engaged can be so fond as to think of security) for, let the <hi>Yong Man</hi> come in with freedom to encounter both <hi>Ar<g ref="char:EOLhyphen"/>my</hi> and <hi>Militia</hi> with the bare title of <hi>King,</hi> and actual possessi<g ref="char:EOLhyphen"/>on of the Throne, the eyes of <hi>Army</hi> and <hi>Militia</hi> will soon be da<g ref="char:EOLhyphen"/>zeled with the splendour of that <hi>Gay Thing,</hi> and fall down and worship at the sight and hope of the Kingdoms of this world, and the glory of them; and then all Bonds of Agreement (if any be) will prove but Rushes.</p>
+            <p>Oh, for God and his peoples sake, yea, and for the City of <hi>Lon<g ref="char:EOLhyphen"/>dons</hi> sake, whom <hi>Charles</hi> the Father branded in his Papers with the Character of <hi>Disloyal and Rebellious City,</hi> (though at that time most renowned in her actings) set an end to the expectations of ma<g ref="char:EOLhyphen"/>licious enemies, and staggering friends, by clearing up your selves, that we may see you in the light, vigorously asserting the good Cause of these Nations; yea, for the sake of Parliaments we ask it: and we doubt it not at your hand, seeing the people are not like to be brought to contend any more for Parliaments, if after so long a Contest he should gain an opportunity of improving a possession of the Crown to an usurpation over the Priviledges and Majesty of Parliaments.</p>
+            <p>But (my Lord and Gentlemen) leaving these things which touch onely upon your worldly Interests and Concernments, we are bold to say, (though the jealousies of weaker Brethren be great and many) we believe our selves to be sure of you, because we have your souls as well as your personal interests at pawn for your fidelity to the Publick. We remember your Declaration sent from <hi>Scotland</hi> to the <hi>Churches,</hi> and other Declarations at the same time. We might mind you, if it were needful, how you have called God to witness, <hi>That the ground of your late undertaking in</hi> Scotland <hi>was, The vindication of the Liberties of the People, with the protection and encouragement of the godly and faithful therein,</hi> &amp;c. <hi>and that you have no intention or purposes to return to our old Bondage; but that the Providence of God having made us free at
+<pb n="8" facs="tcp:43677:6"/> the cost of so much blood, you will never be found so unfaithful to God and his people, as to loose so glorious a Cause; but do resolve, with Gods assistance, to endeavour a maintaining of our dear-purchased Liberties both Spiritual and Civil.</hi> But seeing these Declarations made <hi>before God, Angels and Men,</hi> (as your selves have said) do so much concern your souls in the o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>servation of them, that they cannot but be much upon your hearts; therefo e we mention them, not as doubting you, or endeavouring to perswade you, but to ease our own minds, and comfort the hearts of our Brethren, who have need to be comforted: And do wait for a good time when your Excellency shall break forth, and more visibly appear (through all the Clouds of Fear and Jealousie) a Defence and Protection (through the goodness of God) to all his people that fear him in these Nations; and so their hearts universally will return unto you. In assurance whereof, and that you will be very much confirmed and encouraged after the reading of this Decla<g ref="char:EOLhyphen"/>ration, We remain,</p>
+            <closer>
+               <salute>(My Lord)</salute>
+               <signed>Your Excellencies most faithful Friends and Servants in the Common Cause.</signed>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 22. 1659.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:43677:6"/>
+         </div>
+         <div type="proclamation">
+            <pb facs="tcp:43677:7"/>
+            <pb n="17" facs="tcp:43677:7"/>
+            <head>A DECLARATION OF THE <hi>COMMONS of ENGLAND</hi> In PARLIAMENT assembled.</head>
+            <p>HOw fruitless our former Addresses have been to the King, is so well known to the world, that it may be expected we should now Declare, Why wee made the last, or so many before, ra<g ref="char:EOLhyphen"/>ther than why wee are resolved to make no more.</p>
+            <p>Wee cannot acknowledge any great Confidence that our words could have been more perswasive with Him, than Sighs and Groans, the Tears and crying Blood (an heavy Cry!) the Blood of Fathers, Brothers and Children at once, the Blood of many Hundred thousand Free-born Subjects in Three great Kingdomes, which Cruelty it self could not but pity to destroy.</p>
+            <p>Wee must not be so unthankful to God, as to forget wee never were forced to any Treaty; and yet wee have no less than Seven times made such Applications to the King, and tendred such Propositions, that might occasion the world to judge, Wee have not onely yeelded up our Wills and Affections, but our Reason also, and Judgement, for obtaining any true Peace, or good Accommodation.</p>
+            <p>But it never yet pleased the King to accept of any Tender fit for us to make, nor yet to offer any fit for us to receive.</p>
+            <p>It is very well known, That the Propositions sent to the King at <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> and Treated on at <hi>Uxbridge,</hi> were agreed by the Parliaments of both Kingdomes, not onely as Just, but Necessary also for the very Be<g ref="char:EOLhyphen"/>ing of these Kingdomes in a setled Peace and Safety.</p>
+            <p>And although the Kings persisting in his wonted waies and Denials, might have caused us to improve the Advantage of that great Success (which it pleased God to afford us) Yet when His Armies were all bro<g ref="char:EOLhyphen"/>ken, so that in Disguise Hee fled from <hi>Oxford</hi> to the Scots at <hi>Newark,</hi> and from thence went to <hi>Newcastle;</hi> and that <hi>Oxford,</hi> and almost all His Garisons were taken, We tendred at <hi>Newcastle</hi> Propositions, the same in effect, which had been presented before in the midst of all His Strength and Forces.</p>
+            <p>And notwithstanding this Change of His Condition, and Denial of those Propositions, after Hee was left to the Commissioners of Parlia<g ref="char:EOLhyphen"/>ment, and our Brethren of <hi>Scotland</hi> quietly departed home; after all His
+<pb n="18" facs="tcp:43677:8"/> Garisons taken, and no visible Force in the whole Kingdome appearing for Him, the King being at the sole Dispose of the Parliament without Dispute; yet even then the same Propositions were again presented to Him at <hi>Hampton-Court.</hi>
+            </p>
+            <p>In all which Addresses, the Commissioners of <hi>Scotland</hi> agreed with us, and joyned with our Commissioners in attending the King.</p>
+            <p>The King not granting our Propositions, but still giving such strange unexpected and conditional Answers or Denials, as might justly have made us consider some other course for setling the Kingdome in Peace and Safety, without any further Application; which was also so far a<g ref="char:EOLhyphen"/>greed by our Brethren of <hi>Scotland</hi> (at their leaving <hi>Newcastle</hi>) that their Commissioners Declared, in case the King consented not to the Propositions, Yet they would maintain the Treaties and Union made between the Kingdomes.</p>
+            <p>But so desirous were wee of His Concurrence in the Settlement of the Kingdomes Peace, that wee yet again resolved upon another Address; and did so qualifie the said Propositions, that, where it might stand with the Publick Safety, His wonted Scruples and Objections were pre<g ref="char:EOLhyphen"/>vented or removed.</p>
+            <p>And although wee could not forget how dangerous and void of Suc<g ref="char:EOLhyphen"/>cess our former Treaties had been, and that a Personal Treaty had been Declared by both Houses, and the Commissioners of <hi>Scotland</hi> to bee un<g ref="char:EOLhyphen"/>safe, without Security and Satisfaction first given; yet wee also yeelded to that, on condition the King would Sign but Four Bills, which wee j<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dged not onely Just and Honourable, but Necessary even for present Peace and Safety, during such a Treaty.</p>
+            <p>Wee have cause enough to remember, That Hee sometimes denied to receive our Humble Petitions for Peace; and when wee desired Him to appoint some place for a Committee of both Houses to attend Him with Propositions for Peace, Hee named <hi>Windsor,</hi> promising to abide thereabouts, till they came unto Him: But presently marched forward (that very night) so near <hi>London,</hi> that Hee had almost surprized it, while Hee had so engaged himself for a Treaty, had not some few of our Foot at <hi>Brainford,</hi> with invincible Courage, exposed themselves to ap<g ref="char:EOLhyphen"/>parent Death, Till His Army was forced to retire in Fear and Shame, with the Guilt of most Inhumane and Barbarous Cruelties committed at <hi>Brainford,</hi> to assure <hi>London</hi> what it must have expected, had not God prevented those Bloody Designs.</p>
+            <p>And wee well remember, That the King once sent us a specious Mes<g ref="char:EOLhyphen"/>sage of renewing a Treaty, when at the same time His Messenger was in<g ref="char:EOLhyphen"/>structed how to manage that Bloody Massacre in <hi>London,</hi> which was then Designed by virtue of the Kings Commission, since publish<g ref="char:EOLhyphen"/>ed.</p>
+            <p>And about the time of the Treaty at <hi>Uxbridge,</hi> Hee excused Himself to the Queen by a Letter under His own Hand, as forced to that Trea<g ref="char:EOLhyphen"/>ty by the mutinous Motions of His Mungrel Parliament at <hi>Oxford;</hi> and
+<pb n="19" facs="tcp:43677:8"/> that hee could not finde any two of them of His mind, else Hee would not have acknowledged us for the Parliament of <hi>England;</hi> which yet Hee did with a Protestation, entred into the Council-Books, That His calling us so, did not make us a Parliament.</p>
+            <p>All which was but small Encouragements, again to make our selves His Sport or Scorn by any other Treaty; yet wee now yeelded to this also.</p>
+            <p>But notwithstanding this, and all former Tenders, Wee have now received such a Denial, that wee are in despair of any good by Addres<g ref="char:EOLhyphen"/>ses to the King, neither must wee bee so injurious to the People, in fur<g ref="char:EOLhyphen"/>ther delaying their Settlement, as any more to press His Consent to these or any other Propositions.</p>
+            <p>Nor can wee see why it should bee expected a new Engagement could prevail on Him, or oblige Him more strongly to the Kingdome, than the Solemn Oath of His Coronation, and the several other Vows, Pro<g ref="char:EOLhyphen"/>testations and Imprecations so frequently by Him broken, during His whole Reign, and so often renewed before God and the whole World.</p>
+            <p>Wee may be the more justified herein, by those that know what pas<g ref="char:EOLhyphen"/>sed between the King and our Brethren the Scots, when those Articles were agreed and confirmed in the first Pacification not long before these Wars; which, as soon as their backs were turned, and their Armies out of sight, were disavowed again by the King, and by His Command pub<g ref="char:EOLhyphen"/>lickly burnt <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t <hi>London</hi> by the Hands of the Hang-man.</p>
+            <p>Which yet might have been forgotten, had not a continued track of Breach of Trust in the Three Kingdomes, since hee wore the Crown, made us (though unwilling) to remember it.</p>
+            <p>Wee take no pleasure to repeat our own Miseries, or others Mischief, if it might be hidden or forgotten; But wee are now forced to speak what hath long been suffered in too much silence.</p>
+            <p>Himself in publick Speeches and Declarations, hath laid a fit founda<g ref="char:EOLhyphen"/>tion for all Tyranny, by this most Destructive Maxim or Principle, which Hee saith Hee must avow, <hi>That Hee oweth an Account of His Actions to none but God alone; and, That the Houses of Parlia<g ref="char:EOLhyphen"/>ment, joynt or separate, have no power either to make or Declare any Law.</hi>
+            </p>
+            <p>The Private Articles agreed in order to the Match with <hi>Spain,</hi> and those other Private Articles upon the <hi>French</hi> Marriage, so prejudicial to the Peace, Safety, Laws, Religion here established, and the continued Correspondence which hath since been carried on with <hi>Rome,</hi> are so e<g ref="char:EOLhyphen"/>vident as cannot bee denied.</p>
+            <p>Wee cannot but call to Minde the Proceedings and Passages of the Parliament held in the second year of this Kings Reign, concerning the Death of his Royal Father.</p>
+            <p>The Tenth of <hi>May,</hi> 1626. the House of Commons charged the Duke of <hi>Buckingham,</hi> among other things, in these words, <hi>(viz.)</hi>
+            </p>
+            <pb n="20" facs="tcp:43677:9"/>
+            <p>
+               <hi>WHereas the sworn Physicians of our late Soveraign Lord, King</hi> James <hi>of blessed Memory, attending on His</hi> Majesty <hi>in the month of</hi> March, <hi>in the Two and twentieth of His most Glorious Raign, in the times of His sick<g ref="char:EOLhyphen"/>ness, being an</hi> Ague, <hi>Did in due and necessary care of and for the recovery of His health, and preservation of His per<g ref="char:EOLhyphen"/>son, upon and after several mature Consultations in that be<g ref="char:EOLhyphen"/>half had and holden at several times in the same month, resolve, and gave direction,</hi> That nothing should be apply<g ref="char:EOLhyphen"/>ed or given unto His Highness, by way of Physick or Diet, during His said sickness, but by and upon their general Advice and Consents: <hi>And after good deliberation thereof first had, more especially by their like care, and upon like Consultations, Did justly resolve, and publickly give warning to, and for all the Gentlemen and other Servants and Officers of His said late</hi> Majesties <hi>Bed-chamber,</hi> That no Meat or Drink whatsoever should bee given unto Him within two or three hours next before the usual time of, and for the coming of His Fit in the said Ague, nor du<g ref="char:EOLhyphen"/>ring the continuance thereof, nor afterwards until His cold Fit were past. <hi>The said Duke of</hi> Buckingham <hi>being a sworn Servant of His late</hi> Majesty, <hi>of and in His</hi> Majesties <hi>said Bed-chamber, contrary to his duty, and the tender re<g ref="char:EOLhyphen"/>spect which he ought to have had of His</hi> Majesties <hi>most Sa<g ref="char:EOLhyphen"/>cred Person; and after the Consultations, Resolutions, Di<g ref="char:EOLhyphen"/>rections, and Warning aforesaid Did nevertheless, without any sufficient warrant in that be<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alf, unduly cause and pro<g ref="char:EOLhyphen"/>cure certain Plaisters, and a certain Drink or Potion to bee provided for the use of His said</hi> Majesty, <hi>without the di<g ref="char:EOLhyphen"/>rection or privity of His said late</hi> Majesties <hi>Ph<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sicians, not prepared by any of His</hi> Majesties <hi>sworn</hi> Apothecaries <hi>or</hi> Chirurg<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons, <hi>but compounded of several Ingredie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts to them unknown; Notwithstanding the same pla<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ster, or some plai<g ref="char:EOLhyphen"/>ster like th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reunto, having been formerly administred unto His said</hi> Majesty, <hi>did procure such ill effects, as that some of the said sworn Physicians did altogether disallow thereof, and utterly refused to meddle any further with His said</hi> Ma<g ref="char:EOLhyphen"/>jesty, <hi>until those plaisters were removed, as being prejudicial
+<pb n="21" facs="tcp:43677:9"/> to the health of His</hi> Majesty. <hi>Yet nevertheless, the same plaister, as also a Drink or potion, was provided by him the said</hi> Duke, <hi>which he the said</hi> Duke, <hi>by colour of some in<g ref="char:EOLhyphen"/>sufficient and slight pretences, did upon</hi> Monday <hi>the One and twentieth day of</hi> March, <hi>in the Two and twentieth year a<g ref="char:EOLhyphen"/>foresaid, when His</hi> Majesty <hi>(by the judgement of His said Physicians) was in the declination of His</hi> Disease, <hi>cause and procure the said plaister to be applyed to the Brest and Wrists of His <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aid late</hi> Majesty; <hi>and then also, at and in His</hi> Ma<g ref="char:EOLhyphen"/>jesties <hi>Fit of his said</hi> Ague <hi>the same</hi> Monday, <hi>and at se<g ref="char:EOLhyphen"/>veral times, within two hours before the coming of the same Fit, and before His</hi> Majesties <hi>then cold Fit was passed, did deliver and cause to be delivered, several quantities of the said Drink or potion to His late</hi> Majesty; <hi>who thereupon, at the same times, within the seasons in that behalf prohibited by His</hi> Majesties <hi>Physicians as aforesaid, did by the means and procurement of the said</hi> Duke, <hi>drink, and take divers quantities of the said Drink or potion, applyed and given unto, and taken and received by his said</hi> Majesty <hi>as aforesaid,</hi> Great distempers, and divers ill symptoms appeared upon His said Majesty; <hi>insomuch that the said Physicians finding His</hi> Majesty <hi>the next morning much worse in the estate of his health, &amp; holding a Consultation thereabout, did by joynt consent send unto the said</hi> Duke, <hi>praying h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m not to adven<g ref="char:EOLhyphen"/>ture to minister unto His</hi> Majesty <hi>any more Physick without their Allowance and Approbation; And His said</hi> Majesty <hi>himself, finding himse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f much diseased and affl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted with pain and sickness after his then Fit, when by the cou se of his</hi> Disease <hi>he expected inte<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mission and ease, did attr bute the cause of such his trouble unto the said plaiste<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and drink which the said</hi> Duke <hi>had so given, and caused to be admi<g ref="char:EOLhyphen"/>nistred unto him; which said adventrous act, by a person ob<g ref="char:EOLhyphen"/>liged in duty and thankfulness, done to the person of so gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> t ae</hi> King, <hi>after so all success of the l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k formerly admin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>st<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d, contrary to such directions as aforesaid, and accom nied with so unhappy an event, to the great grief and discomfort of all His</hi> Majesties <hi>Subjects in general is an</hi> Off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ce <hi>and</hi> Misdemeanour <hi>of so high a nature, as may justly be called,
+<pb n="22" facs="tcp:43677:10"/> and is by the said</hi> Commons <hi>deemed to be,</hi> An act of tran<g ref="char:EOLhyphen"/>scendent presumption, and of dangerous consequence.</p>
+            <p>And delivered it at a Conference to the Lords.</p>
+            <p>After dwhich the King came into the Lords House and took notice of that Charge, and told them he could be a witness to clear him in every one of them; unto which charge, no answer came in unto the eighth of <hi>June</hi> following, and the tenth day after it was ordered by the House of Peers to be communicated to the House of Commons: But while the House was preparing to send up their proofs upon which they declared, that they doubted not but to have judgement against the said Duke, the King, expressed a suddain purpose to dissolve the Parliament, and al<g ref="char:EOLhyphen"/>though the House of Peers petitioned for its continuance, expressing their great and universal sorrow for his intentions to dissolve it, yet, notwith<g ref="char:EOLhyphen"/>standing all this the said Parliament was dissolved the fifteenth day of the same <hi>June.</hi>
+            </p>
+            <p>At the same time also during the Parliament, Sir <hi>Dudley Diggs</hi> and Sir <hi>John Elliot,</hi> who especially managed that Conference and Examina<g ref="char:EOLhyphen"/>t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons, were comm<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tted close prisoners to the Tower within two days af<g ref="char:EOLhyphen"/>ter the said Charge, by warrant under the Kings own hand.</p>
+            <p>And Messages and interruptions were constantly sent from the King to the Houses while they had the said Charge in Agitation, and the Par<g ref="char:EOLhyphen"/>liament being dissolved before Justice could be done, there never was a<g ref="char:EOLhyphen"/>ny legal enquiry made at any time since, concerning the death of the said King.</p>
+            <p>We leave the world now to judge where the guilt of this remains.</p>
+            <p>We can fully shew how <hi>Rochel</hi> was by him betrayed, and thereby a fatal blow given to the Protestant Cause in <hi>France:</hi> how also hee lent divers of the Navie Royal, and other Merchant-ships, to the <hi>French</hi> to be employed against those whom he was engaged to have as<g ref="char:EOLhyphen"/>sisted. And when some of the Commanders and others in those ships, were so much <hi>English</hi> as to dispute those Orders; wee can shew the King's Letter under his own hand to Captain <hi>Penington,</hi> to put them in<g ref="char:EOLhyphen"/>to the service of the <hi>French</hi> King, or to sink them in case of refusal.</p>
+            <p>We cannot forget the designs to enslave us by the <hi>German</hi>-Horse, (that we say nothing of the late <hi>Spanish</hi> Fleet, with a great Army therein, brought into the Downs, 1639.) and to grinde us by enforced Loans, Privie-Seals, Coat and Conduct-money, enlarging of For<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sts, inclosing of Commons, ingrossing of Gun-powder, with innumerable Pa<g ref="char:EOLhyphen"/>tents and Monopolies of Malt, Salt, Sea-coal, Sope, Leather, Wine, Sugar, Allom, Farthings, Pins, Tobacco, and almost all things else; together with that one <hi>Compendium</hi> of all Oppression and Slavery, cal<g ref="char:EOLhyphen"/>led <hi>Ship-money.</hi>
+            </p>
+            <p>The torture of our bodies, by most cruel whippings, slitting of noses, cutting off ears, branding of cheeks, Racks and Pillories, with c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ose
+<pb n="23" facs="tcp:43677:10"/> Imprisonment at pleasure, might be the sooner forgotten, had not our souls been also Lorded over, led captive into Superstition and Idolatry, triumphed on by Oathes <hi>ex Officio,</hi> Excommunications, Ceremonious Articles, new Canons, Canon-Oathes, &amp;c.</p>
+            <p>One thing more was found, to make us worse than Slaves, in that we might not hope for liberty: The very name of Parliament became so odious at the Court, that if in twelve years time there was so much as one summoned, it served but to shew the lawless power of those that could not be content only to dissolve it at pleasure, but we must be for<g ref="char:EOLhyphen"/>bidden by Proclamation to speak or hope for another Parliament: And at such dissolutions, there was no Priviledge strong enough to secure the closets, cabinets, pockets, and persons of those that in duty and consci<g ref="char:EOLhyphen"/>ence did but vote or act as men, above meer slaves: this was fault e<g ref="char:EOLhyphen"/>nough for close imprisonment and death; for that hath also fol<g ref="char:EOLhyphen"/>lowed.</p>
+            <p>Nor was it enough thus to enslave one Kingdom, but the same Pro<g ref="char:EOLhyphen"/>jectors who had so enthralled <hi>England,</hi> must contrive also to reduce <hi>Ireland,</hi> and conform <hi>Scotland,</hi> that so the mingling of Neighbour-tears, might by sympathy increase each others wo.</p>
+            <p>
+               <hi>Scotland</hi> was to be the first Scene, where a new Liturgie, with new Canons, are to make the Prologue to the following Act.</p>
+            <p>This not succeeding as was hoped, an Army must be raised to force complyance; but by the mediation of the <hi>Engl<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh</hi> Lords, a Pacification is concluded; and it held till the Kings return to Court made him for<g ref="char:EOLhyphen"/>get and disavow it: but the burnt Articles left ashes enough to beget a new flame.</p>
+            <p>There wanted but a form of Law to make all just: For this, and for supply; not for advice, a Parliament is ventured on; yet with Provi<g ref="char:EOLhyphen"/>so, that it should not hurt, although it would not help; and not com<g ref="char:EOLhyphen"/>plying (as was hoped to assist that Warre against the <hi>Scots</hi>) was Crime enough to merit dissolution with a false and scandalous Declara<g ref="char:EOLhyphen"/>tion in the King's Name.</p>
+            <p>The Parliament being dissolve, the King took from his subjects by power what he could not otherwise obtain.</p>
+            <p>Wee need not tell the world how in the midst of all our miseries the <hi>Scots</hi> (our Brethren) entered with a powerful Army, marching on as Friends, till they were forced to make their passage over <hi>Tine.</hi>
+            </p>
+            <p>It was then thought necessary by the King to summon this present Parliament; in which we did proceed with ease, so long as there was but any hope we would comply with him against the <hi>Scots,</hi> and give assistance to that Warre.</p>
+            <p>But he quickly found it vain to hope to bee supplyed by us against the <hi>Scots;</hi> And when we began to consider how we came to bee again involved in a new Warre (notwithstanding the late Pacification) we saw it impossible to quash those pernitious counsels at the present, or to
+<pb n="24" facs="tcp:43677:11"/> prevent them for the future, without questioning their Authors: At this t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e King discovered himself so strongly and passionately affected to such malignant Counsellours and their counsels, that he would sooner desert or force this Parliament and Kingdom, than alter his course, and deliver up his wicked Counsellours to Law and Justice.</p>
+            <p>By this time the Queens pious design (as they termed it) to ad<g ref="char:EOLhyphen"/>vance Popery was almost ready for the birth, being helped much by a Popish Fast, enjoyned weekly by the Popes Nuncio, and by Letters from Secretary <hi>Windebanck,</hi> who durst not abide examination, but af<g ref="char:EOLhyphen"/>ter he was questioned by the House of Commons, got a pass from the King to go beyond sea.</p>
+            <p>What was done abroad will hereafter appear: although the K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng made light of all our intelligence from forraign parts; yet he could not so well avoyd or deny the Commissions given at Court to Popish A<g ref="char:EOLhyphen"/>gents for private levies, or that the Papists began to rise and arm themselves in the North-west of <hi>England</hi> and <hi>Wales,</hi> till they were suppressed; or that there were Regiments raising and listing in <hi>London,</hi> and parts adjoyning, under pretence of Souldiers for <hi>Portugal;</hi> or that some of these came to seize and possesse themselves of the Tower, and the Lieutenant threatned for refusing them; all which hee knew might be sufficiently proved.</p>
+            <p>To the like pious design we may referre the great Cabal for bringing up the Northern Army to over-awe the Parliament, which the King did so often and solemnly disavow, <hi>as nothing but loose discourses of a modest Petition, which also vanisht two or three months (he saith) before we knew it.</hi>
+            </p>
+            <p>But he now knoweth we can prove the chief part of that Cabal <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame from himself to the main Actors, and that some of them did dis<g ref="char:EOLhyphen"/>swade him from his way, because it was so sharp and high, exceeding the limits of Honour and Law: And yet their propositions which were the lower way, were much above the size of Petitions, as they are al<g ref="char:EOLhyphen"/>ready published in their own Confessions. And it is very strange, Mr. <hi>Percy,</hi> Sir <hi>John Suckling,</hi> and Mr. <hi>Germin</hi> (sent away by the King's spe<g ref="char:EOLhyphen"/>cial Warrant) should flee beyond Sea only upon discovery of a modest Petition.</p>
+            <p>But notwithstanding any disswasions, yet the King persisted in his way; so that after this, there was appointed a Meeting of Officers at <hi>Bur<g ref="char:EOLhyphen"/>rough-bridge,</hi> and Propositions made, with private Instructions brought from the King, by some that told them they were unwise to shew their teeth, except they would bite; and that the King would pawn his Jewels for them, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould they be faithful to him; &amp; if they marched forward, they should be met by the Prince and the Earl of <hi>Newcastle</hi> with a good bo<g ref="char:EOLhyphen"/>dy of Horse; and that the <hi>French</hi> also would be ready to assist them.</p>
+            <p>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s was in <hi>April,</hi> and we had notice of this in the beginning of <hi>May,</hi> when also there was a design for some <hi>French</hi> to have seized on <hi>Ports<g ref="char:EOLhyphen"/>mouth,</hi> whither the Queen was then going: but the Ports were better se<g ref="char:EOLhyphen"/>cured, by a special Committee.</p>
+            <pb n="23" facs="tcp:43677:11"/>
+            <p>So far was it also from vanishing divers months before our notice, that some of our Cabalists, after examination by us, were again attempted by the King, and some of them sent again to the Army with new instructions and directions signed by the King himself, as most clearly appeareth by compa<g ref="char:EOLhyphen"/>ring the Journals of <hi>May</hi> 1641. with the months following; together with the time specified in the confessions of Sir <hi>Jacob Astley,</hi> Sir <hi>John Conyers,</hi> Col. <hi>Legg</hi> and others, already published.</p>
+            <p>And when there was yet demur among the chief Officers, there went ano<g ref="char:EOLhyphen"/>ther Agent from Court, to quicken them, and treat of some directions signed by the King: But he was to go fa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther, the Scots Army being then at <hi>New<g ref="char:EOLhyphen"/>castle.</hi>
+            </p>
+            <p>What offers were made to them of the Plunder of <hi>London,</hi> if they would advance, or of four Northern Counties, with three hundred thousand pounds, or Jewels of great value, to stand <hi>Neuters</hi> in that design, is al<g ref="char:EOLhyphen"/>ready declared by some who may better know the propositions made by <hi>O Neal</hi> (who brake prison here) Sir <hi>John Hinderson</hi> and others with Letters of Credence from the King; After that he was so resolute to go into <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> that he could not be perswaded by our Petitions to defer that journey, and though in the year 1641. he was not pleased to leave such a Commission as the Parliament desired of him, yet was he pleased before, in the year 1639 to intrust Secretary <hi>Windebanke</hi> a known favourer of Papists, with blank sheets both of Parchment and Paper signed with his sign <hi>Mannual,</hi> which were imployed by him for disposing great commands by Land and Sea.</p>
+            <p>It is well known what Letters the King sent into <hi>Ireland</hi> by the Lord <hi>Dillon</hi> immediately before the Rebellion, and where the great Seal of <hi>Scotland</hi> was, and in whose hands when that Commission was sealed at <hi>Edenburgh</hi> to the Irish Rebels, who dispersed Copies thereof in <hi>Ireland,</hi> with Letters or Proclamations, and we have a Copy thereof attested by Oath, with depositions also of those who have seen it under the Seal</p>
+            <p>Which Commission was promised (as some of the chiefest Rebels confessed) to the Irish Committee at <hi>London,</hi> for the most part Papists, (which was thought a good <hi>Omen</hi>) and since most active Rebels, upon whose private meditation the King gave away more than Five Counties, saying, that he expected they should recompence him some other way; and, That he would willingly grant all their desires, but he was oppressed by the Parliament in <hi>England,</hi> of whom he wished that he could be revenged.</p>
+            <p>It hath formerly been declared, how we desired and pressed the King to disband that Irish Popish Army, which (as was cleared at the Earl of <hi>Strafford</hi>'s tryal) was raised to reduce the Kingdoms: But sometimes he would give no answer at all, and sometimes did plainly tel us, He could nor disband it for reasons b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st known to himself: Sometimes the <hi>Scots</hi> must first disband; and then there was a new pretence of divers Regiments promised to <hi>Spain,</hi> for which the King was engaged, and could not go back.</p>
+            <pb n="24" facs="tcp:43677:12"/>
+            <p>Which we now wonder not at, for by the Confession of <hi>Mac Carte</hi> and <hi>Macquire,</hi> with others, it is clear, that this pretence of men for the King of <hi>Spain</hi>'s service, was but a colour to keep some in Arms for a foundation of that Rebellion; and that some of the Committee coming f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om <hi>Lond<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> contrived this Plot for defence of the King, who was then (they said) so much injured in <hi>England</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>And the first clause of that Oath enjoyned by the Gen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ral Councel of Re<g ref="char:EOLhyphen"/>b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls, was, To bea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> true Faith and Allegiance to King <hi>Charles,</hi> and by al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> means to maintain his Royal Prerogative against the Puritans in the Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lia<g ref="char:EOLhyphen"/>ment of <hi>England.</hi>
+            </p>
+            <p>And although we declared to the King, That they stiled themselves the Kings or Queens Army, y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t we could not obtain a Proclamation against them in divers months, and then also but Forty Copies might be P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inted, and expresse Order given, that none should be published til his further dire<g ref="char:EOLhyphen"/>ctions, as appeare<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h under his own Secreta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies hand.</p>
+            <p>Which might very well stand with the Letters from Court to the Lord <hi>Muskery</hi> (a great Rebel in <hi>Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ster</hi>) who was assured, his Majesty was well plea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed with what he did, and would in time give him thanks for it, al<g ref="char:EOLhyphen"/>though for the present it did not then stand with the convenience of the Kings affairs, to give him publick countenance; and this was afterwards made good by the King, who in one of the Letters taken at <hi>Naseby,</hi> com<g ref="char:EOLhyphen"/>mandeth the Earl of <hi>Ormond</hi> to give particular thanks to the said <hi>Muskery</hi> and <hi>Plunk<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t.</hi>
+            </p>
+            <p>We may yet remember how the Earl of <hi>Leicester</hi> was delayed and detained by the King (beyond all pretence) f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om going against the Re<g ref="char:EOLhyphen"/>bels.</p>
+            <p>How also the King refused a Commission (often asked by both Houses) for the Lo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Brooks</hi> and Lord <hi>Wharton,</hi> when at several times there were large Provisions made for relief of <hi>Munster,</hi> and other parts so much distressed, that <hi>Linerick</hi> was wholly lost.</p>
+            <p>But when the Rebels wanted Commanders at their very beginning, we have long since named divers Papists and persons of quality that by the Kings special Warrants after the Ports were shut by both Houses of Parliament, passed hence, and headed the said Rebels.</p>
+            <p>And we likewise named Commanders and Officers, whom the King called off from their Trust against the Rebels, and Ships from their Guards at Sea, that so the Rebels might be supplyed with foreign aids, besides all the Arms and Ammunition they had from the Kings Magazines there, and from hence also, by the Earl of <hi>Antrim,</hi> Lord <hi>Aboin,</hi> and others from the Queen, although the Councel of <hi>Ireland</hi> desiring some pieces of Battery from hence for the poor Protestants there, could not obtain them from the King: But some of our Ships sent to relieve them, were seized by his Men of War, (as the Cloaths and other Provisions by Land) and sold or exchanged for Arms and Ammunition for the King: and the Rebels gave Letters of Mart for taking the Parliaments Ships, but freed the Kings as their very good friends.</p>
+            <pb n="25" facs="tcp:43677:12"/>
+            <p>Let the World now judge, how much reason we had to believe the Rebels, when they did so often swear they did nothing without good Authority and Commission from the King, so that Sir <hi>Phelim O Neal</hi> would not be perswaded, General <hi>Lesley</hi> had any Authority from the King against the Rebels.</p>
+            <p>Divers months also before it began, there was information given upon Oath, to the Arch-Bishop and others of the Kings Councel, That there was a g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat design among the Papists for a General Massacre of all the Protestants in <hi>Ireland</hi> and <hi>England</hi> also, and that a great Royal Person had a hand in it, but it was to be managed by direction from the Pope.</p>
+            <p>And besides the Kings Letters to the Pope when he was in <hi>Spain,</hi> and others long since his return, on the behalf of the Duke of <hi>Lorraign</hi> (which must be requited by the said Duke with a Foreign Army to invade <hi>England</hi> upon the Kings d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sign. It is clear, that some months before the Irish Re<g ref="char:EOLhyphen"/>bellion, the King had an Agent in <hi>Rome,</hi> as by divers of his own Secreta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies papers appeareth.</p>
+            <p>And that the same designs were laid for <hi>England</hi> also at the same time, if we might not believe the confession of the Queens Mothers Servants, (atte<g ref="char:EOLhyphen"/>sted upon Oath) that there were many thousands appointed to cut the Pro<g ref="char:EOLhyphen"/>testants throats in this Kingdome also, when the King went to <hi>Scotland:</hi> y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t we may rem<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mber it was confessed by some of the principal Rebels, that th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir Popish Committee here with the King, had communicated that design to many Papists in <hi>England,</hi> by who<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e advice, though some things were altered, y<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t it was generally concluded, that about the same time there should <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the like p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oceedings of the Papists here; insomuch that when <hi>Cha<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le Mount</hi> was <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eized in <hi>Ireland,</hi> Sir <hi>Phelim O Neal</hi> and other great Rebels did with much confidence affirm the Tower was also seized at <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and the Arch-Bishop released by their party here, where they said, there was as much blood running as in <hi>Ireland.</hi>
+            </p>
+            <p>And it is ve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y well known that upon the Kings return from <hi>Scotland,</hi> be<g ref="char:EOLhyphen"/>sides the unusual preparations of Ammunition and Arms, with new Guards within and about <hi>Whitehall:</hi> and besides the g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eat quantity of Fire-works found and taken in Papists Houses, the Tower was also filled with new Guards, many Cannoneers, G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anadoes, and all sorts of Fire-works, Morters, with other great Pieces of battery, ready prepared and mounted against the City. Sir <hi>William Belf<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur,</hi> who was formerly th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eatned, for refusing the new Guards while the Earl of <hi>Strafford</hi> lived, was now displaced, and such Officers placed by the King as were not only suspected by us, but the whole City, (who du<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st not abide in their own Houses, as by their several Petitions is manifest.</p>
+            <p>From this time the track of open force against this Parliament and King<g ref="char:EOLhyphen"/>dome did appear more visible.</p>
+            <p>The Charge of Treason against some of both Houses, and that unparalleld Act of violence by the Kings comming so attended to the House of Commons, (after he had discharged our Guards, denying us any, but what might
+<pb n="26" facs="tcp:43677:13"/> restrain or overawe us) was but the Prologue to a bloody Tragedy, had not the Parliament, and good affections of the City interrupted that design, and caused the Kings new Guards (al<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eady listed and moulded under Colonels and other Officers) to withdraw a li<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tle to another service.</p>
+            <p>Neither would the Count<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y more comply with these designs, although they were attempted with unu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ual arguments, and armed Troops in warlike manner to compel them; which succeeded yet so ill, that the Lord <hi>Digby</hi> durst not abide the trial, but was sent away upon a special Errand by the Kings own Warrant.</p>
+            <p>What his E<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>and was b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yond Sea, we may w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll conclude from the List of A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ms and Ammuni<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion (for which w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oduce the Kings own hand) taken amongst his Pape<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, and p inted with his Letters to the Queen, at her first landing in <hi>H<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>and.</hi>
+            </p>
+            <p>What advice he gave for the Kings reti<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to some safe place, and declare himself, and how th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King follow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d it, it is known well enough.</p>
+            <p>But befo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the Kings setling at <hi>York<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> the notice we had of his Commissi<g ref="char:EOLhyphen"/>ons to the Ea<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of <hi>New<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>astle,</hi> and Colonel <hi>Legg,</hi> for att<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpting <hi>Newcastle</hi> and <hi>Hull,</hi> may justly occasion us to provide for their security, especially when we had certain intelligence from the Low-Countries of forreign Forces f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om <hi>Denmarke,</hi> to come in about <hi>Hull,</hi> whither also came with the Lord <hi>Digby,</hi> divers Commanders, with much Ammunition and Arms from other Foreign parts.</p>
+            <p>And had not the <hi>Swedes</hi> at that time invaded part of the King of <hi>Den<g ref="char:EOLhyphen"/>marks</hi> Dominions, we had had reason enough to expect a storm that way, to have fallen also on <hi>Hull,</hi> where was then a great Magazine; and before we ever asked the King to remove it, we represented to him, that besides all o<g ref="char:EOLhyphen"/>ther intelligence of former Negotiations, we had good notice of a Fleet pre<g ref="char:EOLhyphen"/>pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing in <hi>Denmarke,</hi> and that one of the Lord <hi>Digbies</hi> servants had sol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icited a Mariner (or Pilot) to conduct it into <hi>Hull.</hi>
+            </p>
+            <p>And before that time, the King had di<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>patched an Agent into <hi>Denmarke,</hi> with Letters of Credit, complaining against the Parliament as uniustly fixed on the destruction of one man (the Earl of <hi>Strafford</hi> then living) but he was resolved to take another course, and therefore desired Ayde.</p>
+            <p>And there came such an answer, that among the large offers made to the <hi>Scots</hi> before the Kings going into <hi>Scotland.</hi> They were told, the King was assured of Horses and Money from <hi>Denmark.</hi> And by intercepted Letters from the <hi>Hague</hi> to Secretary <hi>Nich<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> long since published, we found, that (besides many Arms and Cannon then provided in <hi>Holland</hi>) There were al<g ref="char:EOLhyphen"/>so coming from <hi>Denmark</hi> Ships with ten thousand Arms for Foot, and fif<g ref="char:EOLhyphen"/>teen hundred Horse for the Kings use: And that <hi>Cockran</hi> very handsomely evaded, that which was like to have frustrated all their expectations from thence.</p>
+            <p>And in <hi>Cockrans</hi> latter Instructions (for there had been others before sent into <hi>Denmark</hi>) long since printed; The King saith, We were then begining to make head against him, and were then leavying Forces, and therefo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e he
+<pb n="27" facs="tcp:43677:13"/> presseth for Men, Money, Arms, and Ships from <hi>Denmarke,</hi> for which also he useth many Arguments, and among others one in these words:
+<q>That in pursuance of their great Design of extir<g ref="char:EOLhyphen"/>pating the Royal Blood and Monarchy of <hi>England,</hi> they have endeavoured likewise to lay a great blemish upon his Royal Family, endeavouring to Illegitimate all derived from his Sister, at once to cut off the Inte<g ref="char:EOLhyphen"/>rest and pretentions of the whole Race; which their most detestable and scandalous Design they have pursued, examining witnesses, and conferring circumstances and times to colour their pretentions in so great a fault; and which as his sacred Majesty of <hi>England</hi> in the true sense of Honour of his Mother doth abhor, and will punish; so he expects his concurrence in vin<g ref="char:EOLhyphen"/>dicating a Sister of so happy memory, and by whom so near an union and continued League of Amity hath been produced between the Families and Kingdomes.</q>
+            </p>
+            <p>A most false scandalous charge of that which never entred into our thoughts; So that we believe there never was a more unworthy Act done by any Prince, so to betray his Trust and People to a Foreign Nation, by incensing them with such an odious slander, to the shame of his own Mother.</p>
+            <p>Which we repeat the rather, because when we declared our Intelligence, that <hi>Cockeran</hi> was sent into <hi>Denmark</hi> to procure Forces thence, <hi>The King disavowed it, calling it a vile scandal, in his Answer to our Declaration of the</hi> 22 <hi>of October,</hi> 1642.</p>
+            <p>In the same Instructions to <hi>Cockeran,</hi> he declareth also, That he then ex<g ref="char:EOLhyphen"/>pected assistance from all his neighbour Princ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Allies, in particular the greatest pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of the States Fleet from <hi>Holland,</hi> whither he confessed he had then sent the Queen.</p>
+            <p>He might also have added, that with the Queen (contrary to his Trust) he had sent the anci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt Jewels of the Crown of <hi>England</hi> (of a very vast value) to be pawn<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d or sold for Ammunition and Arms, of which we had cartain knowledge before we took up Arms.</p>
+            <p>Neither had we so much as once asked the settling of the <hi>Militia</hi> till the Queen was going into <hi>Holland.</hi>
+            </p>
+            <pb n="28" facs="tcp:43677:14"/>
+            <p>And it may be remembred, that many months before the Voyage to <hi>Holland</hi> She was going beyond Sea, had not our motions to the Ki<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g stayed her, (And that amongst other Reasons given) because we then also heard, she had packed up the Cown Jewels and Plate, by which we might see what was then also intended by that Journey, had we not prevented it till the Winter.</p>
+            <p>But at <hi>Burrough Briggs</hi> before the Earl of <hi>Straffords</hi> death the Officers were told, the King would pawn his Jewels for them, and the French were pro<g ref="char:EOLhyphen"/>mised to assist them.</p>
+            <p>All this and much more yet to be said, maketh us stand amazed at the Kings solemn Protestations, so of<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en made, calling God to witnesse, and re<g ref="char:EOLhyphen"/>venge it also, if he had any thought of b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inging up the Northern Army, or of levying Forces to wage war with his Parliam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt, or to invade the Rights of his Subjects, or of bringing in foreign Forces or Aids from beyond Sea, <hi>which</hi> (as himself sayes in his Declarations) <hi>would not only have buried this Kingdome in suddain destruction and ruine, but his own Name and P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sterity in perpetuall scorn and infamy.</hi>
+            </p>
+            <p>Yet at very first, when hims<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf and the Lords made such a Protestation at <hi>York</hi> against levying Forces, he commanded his Subjects by Proclamation to resist the Orders of Parliament: And had signed that most illegal Commissi<g ref="char:EOLhyphen"/>on of Array. And did privately contrive the g<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tting out of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Stores, Ship, or otherwise such Ordinance, Powder, Shot, and Ammunition, as could be possibly got and provided, for which we can produce a Letter of 20 <hi>June</hi> 1642. under his own hand to Sir <hi>John Heydon</hi> Lievtenant of the Ordnance to convey it secretly in Ballast of Ships, and required Subsc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iptions for Plate, Horses and Arms; and had also raised such Guards of Horse and Foo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> about him, that by them he did not on<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly abuse our Committees sent unto him, beat our publick Off<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs and M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssengers, protect notorious Papists, Trayto<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s or Felons, such as <hi>B<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ckwith,</hi> and other from <hi>Posse Commitatus,</hi> but also with those Guards, Cannons and Arms from beyond Sea, did attempt to fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce <hi>Hull</hi> in an Hostile manner, and that within few dayes after that solemn Pro<g ref="char:EOLhyphen"/>testation at <hi>York.</hi>
+            </p>
+            <p>It was not long before he proclaimed us Rebels and Traitors, sett<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng up his Standard against the Parliament, which never any King of <hi>England</hi> did before himself.</p>
+            <p>Nor did ever any but King <hi>Charles</hi> set up a mock Parliament at <hi>Oxford,</hi> or any other place, to oppose and protest against the Parliament o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> which himself and both Houses had continued by Act of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>And when he had made those pretended Members at <hi>Oxford</hi> to falsifie their faith and trust they owed to this Kingdome, finding that by them he could not carry on his pernicious designs, he derided their meeting in a let<g ref="char:EOLhyphen"/>ter to the Queen, and called them a mungrel Parliament, whereby his own party may perceive what reward they must expect when they have done their utmost to shipwrack their faith and conscience to his will and Tyran<g ref="char:EOLhyphen"/>ny,
+<pb n="29" facs="tcp:43677:14"/> and for calling in of foreign Forces, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> besides that which we have said already, it is very well known by his own Letters taken at <hi>Naseby,</hi> and the Lord <hi>Digbies</hi> Cabinet, what negotiations he hath long had in all States round about us; we have also remaining with us an authentick Copy of his Commission for calling over ten thousand of the Irish Rebels to subdue this Parliament, the disloyal and Rebellious City of <hi>London</hi> (as he calleth it) and for this purpose (expresly against an Act of Parliament) he made a pacifica<g ref="char:EOLhyphen"/>tion first, and since a Peace with those most cruel bloody Rebels, on such odious, shamefull, and unworthy conditions, that himself blushed to own or impart them to his own Lievtenant the Earl of <hi>Ormond,</hi> but a private Com<g ref="char:EOLhyphen"/>mission was made to the Lord <hi>Herbert</hi> (called Earl of <hi>Glamorgan</hi>) comman<g ref="char:EOLhyphen"/>ding him to manage it with all possible secresie.</p>
+            <p>And for letting us see this secret Commission (which was taken at <hi>Sligo</hi>) the said Lord did endure a specious confinement.</p>
+            <p>Neither do we by this time wonder he should forget his vows and Pro<g ref="char:EOLhyphen"/>testations, that he would never consent (upon whatsoever pretence) to a toleration of the Popish profession, or abolition of the Laws then in force against Recusants, with most solemn imprecations, that God would so deal with him and his, as he continued in such professions, and inviolably kept those P<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otestations, notwithstanding about the very same time, it appears by Letters under his own hand to the Queen and the Earl of <hi>Ormond,</hi> that he would consent to the taking away all penal Laws against Papists both in <hi>En<g ref="char:EOLhyphen"/>gland</hi> and <hi>Ireland.</hi>
+            </p>
+            <p>And also we had sufficient notice and proofs of most of these things before, notwithstanding all his breach of trust with the Protestants in <hi>France, Scot<g ref="char:EOLhyphen"/>land, Ireland,</hi> and this Kingdome, which (besides all other oppressions by uniust Prerogative) he hath so oft endeavoured to enslave by <hi>Germane, Spa<g ref="char:EOLhyphen"/>nish, French, Lourain, Irish, Danish,</hi> and other foreign Forces; yet so really we sought his own as well as the Kingdoms peace and happinesse, that after so many denyals we made this last application so just and honorable, that we cannot but now conclude, he hath wholly forgotten not only his duty to the Kingdom, but also, the care and respect he owes to himself and his own fa<g ref="char:EOLhyphen"/>mily.</p>
+            <p>These are some few of the many Reasons why we cannot repose any more trust in him, and have made those former resolutions; yet we shall use our utmost endeavours to settle the present Government as may best stand with the peace and happinesse of this Kingdome.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="order">
+            <pb n="30" facs="tcp:43677:15"/>
+            <head>Die Veneris, xi. Februarii, <hi>1647.</hi>
+            </head>
+            <p>ORdered by the Commons Assembled in Parliament, that a competent number of this Declaration be printed for the Service of the House; And the Knights, Citizens, and Burgesses, and Barons of the Cinque-Ports that serve for the several Counties, Cities, Bur<g ref="char:EOLhyphen"/>roughs, and Ports, are required to send Copies thereof, to be published and dispersed in the several and respective places for which they serve.</p>
+            <closer>
+               <signed>H. Elsynge Cler. Parl. Dom. Com.</signed>
+            </closer>
+            <pb facs="tcp:43677:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
